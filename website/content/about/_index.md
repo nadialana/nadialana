@@ -5,7 +5,7 @@ subtitle: "My Introduction"
 
 <div class="container grid">
   <span class="section__title h2">
-    Hello! My name is <b class='main-color'>Bona Tua</b> from <b class='main-color'>Indonesia</b>.
+    Hello! My name is <b class='main-color'>Nadia Lana</b>. I am a PhD student at <b class='main-color'>McMaster University</b>.
   </span>
   <p>
     Since the beginning of college I have been a freelance web developer, sometimes I also take mobile but the simple one due to the limitations of my device, my first mobile project used Ionic because it used to be light and supported for my old laptop.
